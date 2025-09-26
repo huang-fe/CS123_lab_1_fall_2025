@@ -21,8 +21,8 @@ LOOP_RATE = 200  # Hz
 MAX_TORQUE = 3.0
 
 # TODO Delay code for step 7
-delay_seconds = 0
-control_frequency = 0
+# delay_seconds = 0
+# control_frequency = 0
 
 
 class JointStateSubscriber(Node):
